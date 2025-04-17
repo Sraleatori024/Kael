@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+header{
+    background-image: linear-gradient(to right,rgba(15, 23, 42, 0.85),#0f172a);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.começo{
+    text-align: center;
+    padding-top: 8px;
+}
+.subtitulo{
+    padding-top: 10px;
+}
+.section-container{
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+.descrição{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.section-container{
+    text-align: center;
+}
+.modulos{
+    text-align: center;
+}
+.modulos>p:hover{
+    color: rgba(154, 156, 4, 0.795);
+    
+}
+.modulos>h2{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
