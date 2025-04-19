@@ -30,11 +30,10 @@ header{
 .section-container{
     text-align: center;
 }
-.modulos{
+#modulo06{
     text-align: center;
-}
-.modulos>p:hover{
-    color: rgba(154, 156, 4, 0.795);
+    border: 1px solid black;
+    text-align: right;
     
 }
 .modulos>h2{
